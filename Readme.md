@@ -17,6 +17,10 @@ In conclusion, ColdBox is designed in such a way that it is useful for citizens 
 * No more exposure to your kid or to yourself to other patients in waiting areas of the laboratory.
 * Gives more opportunities to the paramedic industry. The vaccination/ medical tests will be done at home. Laboratories will need more people at service which can help to create more jobs in the nursing/paramedic industry.
 
+
+## Coldbox Apk
+[Apk for test](apk)
+
 ## Development Phase
 
 |Start          |End	|Brief	| Details explained|      Status|
